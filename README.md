@@ -1,4 +1,4 @@
-# clear_vue
+# VUE project from Jeff
 
 > A Vue.js project
 
